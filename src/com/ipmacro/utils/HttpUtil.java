@@ -8,7 +8,7 @@ import com.loopj.android.http.JsonHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 
 public class HttpUtil {
-    private static final int TIME_OUT = 10000;
+    private static final int TIME_OUT = 8000;
     private static AsyncHttpClient client = new AsyncHttpClient(); // 实例话对象
     static {
         client.setTimeout(TIME_OUT); // 设置链接超时，如果不设置，默认为10s
