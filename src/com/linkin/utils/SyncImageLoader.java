@@ -1,7 +1,7 @@
 /**
  * 异步加载图片类
  */
-package com.ipmacro.utils;
+package com.linkin.utils;
 
 import java.io.File;
 

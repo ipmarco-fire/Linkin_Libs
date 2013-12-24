@@ -1,4 +1,4 @@
-package com.ipmacro.utils;
+package com.linkin.utils;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;

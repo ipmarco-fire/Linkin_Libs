@@ -1,5 +1,5 @@
 
-package com.ipmacro.utils;
+package com.linkin.utils;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;

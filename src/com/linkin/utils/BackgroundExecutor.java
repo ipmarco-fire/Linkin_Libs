@@ -3,7 +3,7 @@
  * 
  * 开启线程池执行短期异步任务
  */
-package com.ipmacro.utils;
+package com.linkin.utils;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;

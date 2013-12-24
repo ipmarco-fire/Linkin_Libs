@@ -1,4 +1,4 @@
-package com.ipmacro.app;
+package com.linkin.app;
 
 import android.app.Application;
 
